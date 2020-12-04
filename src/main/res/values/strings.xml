@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CardView_recyclerView_basics</string>
+    <string name="action_Settings">App Settings</string>
+    <string name="action_add_to_fav">Add to Favourite</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+</resources>
